@@ -12,4 +12,8 @@ else
 {
      max = numberB;
 }
+if (numberA == numberB)
+{
+    Console.Write("Оба числа равны ");
+}
 Console.WriteLine(max);
